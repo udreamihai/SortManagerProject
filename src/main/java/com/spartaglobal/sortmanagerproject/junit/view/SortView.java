@@ -1,5 +1,6 @@
-package com.spartaglobal.sortmanagerproject.junit;
+package com.spartaglobal.sortmanagerproject.junit.view;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class SortView {
@@ -10,8 +11,7 @@ public class SortView {
         return desiredSortType;
     }
 
-    public void displayResults(String result) {
-        System.out.printf("Here's the display results\n");
-        System.out.println(result);
+    public void displayResults(int[] result) {
+        System.out.println(Arrays.toString(result));
     }
 }

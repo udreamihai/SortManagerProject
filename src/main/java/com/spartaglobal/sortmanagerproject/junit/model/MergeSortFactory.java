@@ -1,9 +1,8 @@
-package com.spartaglobal.sortmanagerproject.junit;
+package com.spartaglobal.sortmanagerproject.junit.model;
 
 public class MergeSortFactory extends SortFactory{
     @Override
     public Sorter getInstance() {
-        System.out.printf("Merge Sort should start\n");
         return new MergeSort();
     }
 }

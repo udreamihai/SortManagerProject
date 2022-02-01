@@ -1,7 +1,12 @@
-package com.spartaglobal.sortmanagerproject.junit;
-import java.util.Arrays;
+package com.spartaglobal.sortmanagerproject.junit.model;
 
 public class MergeSort implements Sorter{
+    @Override
+    public int[] sortArray(int[] mergeSortArray, int arraySize) {
+        mergeSort(mergeSortArray, arraySize);
+        return mergeSortArray;
+    }
+
     public int[] mergeSort(int[] mergeSortArray, int arraySize){
 
         if (arraySize < 2) return null;
@@ -52,9 +57,5 @@ public class MergeSort implements Sorter{
 
     }
 
-    @Override
-    public int[] sortArray(int[] mergeSortArray, int arraySize) {
-        mergeSort(mergeSortArray, arraySize);
-        return mergeSortArray;
-    }
+
 }

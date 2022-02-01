@@ -1,15 +1,15 @@
-package com.spartaglobal.sortmanagerproject.junit;
+package com.spartaglobal.sortmanagerproject.junit.controller;
+
+import com.spartaglobal.sortmanagerproject.junit.model.*;
 
 public class SortController {
-    public String initiateSort(String desiredSortType){
+    public int[] initiateSort(String desiredSortType){
         Sorter s = getSort(desiredSortType);
-        System.out.printf("Initiated sort type: %s\n", s.toString());
-        return s.toString();
+        return s.sortArray(SortManagerMain.castVariables.intsArray,SortManagerMain.castVariables.arraySize);
     }
 
     private Sorter getSort(String desiredSortType) {
         SortFactory sf;
-        System.out.printf("Here's the sorter with sort type %s\n", desiredSortType);
         if (desiredSortType.equals("Bubble")){
             sf = new BubbleSortFactory();
         }

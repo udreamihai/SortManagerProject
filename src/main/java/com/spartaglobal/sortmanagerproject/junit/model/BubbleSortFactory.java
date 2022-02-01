@@ -1,9 +1,8 @@
-package com.spartaglobal.sortmanagerproject.junit;
+package com.spartaglobal.sortmanagerproject.junit.model;
 
 public class BubbleSortFactory extends SortFactory{
     @Override
     public Sorter getInstance() {
-        System.out.printf("Bubble Sort should start!\n");
         return new BubbleSort();
     }
 }
