@@ -1,10 +1,11 @@
-package com.spartaglobal.sortmanagerproject;
+package com.spartaglobal.sortmanagerproject.junit;
 
 import java.util.Arrays;
 
-public class BubbleSort extends sortManagerMain{
-    public int[] bubbleSort(int[] bubbleSortArray, int arraySize) {
-        long start1 = System.nanoTime(); //start timing
+public class BubbleSort implements Sorter{
+    @Override
+    public int[] sortArray(int[] bubbleSortArray, int arraySize) {
+        System.out.printf("Here is Bubble Sort!\n");
         int[] bubbleSortedArray = new int[arraySize]; //will store the sorted array
         System.arraycopy(bubbleSortArray, 0, bubbleSortedArray, 0, arraySize);
         int temp; //will use to switch integers within the array
@@ -17,9 +18,7 @@ public class BubbleSort extends sortManagerMain{
                 }
             }
         }
-        long stop1 = System.nanoTime(); //stop timing
-        long diff1 = stop1 - start1;
-        System.out.println("Bubble sort took " + diff1 + " nanoseconds to complete and the result is:");
         return Arrays.stream(bubbleSortedArray).toArray();
+
     }
 }

@@ -1,7 +1,7 @@
-package com.spartaglobal.sortmanagerproject;
+package com.spartaglobal.sortmanagerproject.junit;
 import java.util.Arrays;
 
-public class MergeSort extends sortManagerMain{
+public class MergeSort implements Sorter{
     public int[] mergeSort(int[] mergeSortArray, int arraySize){
 
         if (arraySize < 2) return null;
@@ -32,7 +32,6 @@ public class MergeSort extends sortManagerMain{
     }
 
     public static void merge(int[] leftArray, int[] rightArray, int[] mergeSortArray, int leftSize, int rightSize, int fullSize){
-        long start2 = System.nanoTime(); //start timing
         int i=0,l=0,r = 0;
         //check condition for merging
         while(l < leftSize && r < rightSize){
@@ -50,11 +49,12 @@ public class MergeSort extends sortManagerMain{
         while(r < rightSize){
             mergeSortArray[i++] = rightArray[r++];
         }
-        System.out.printf("fullsize: %d, i: %d\n", fullSize, i);
-        if (i == fullSize) {
-            long stop2 = System.nanoTime(); //stop timing
-            long diff2 = stop2 - start2;
-            System.out.println("Merge sort took " + diff2 + " nanoseconds to complete and the result is:");
-        }
+
+    }
+
+    @Override
+    public int[] sortArray(int[] mergeSortArray, int arraySize) {
+        mergeSort(mergeSortArray, arraySize);
+        return mergeSortArray;
     }
 }
