@@ -1,1 +1,1 @@
-# SortManagerProject
+# SortManager - a Java project
