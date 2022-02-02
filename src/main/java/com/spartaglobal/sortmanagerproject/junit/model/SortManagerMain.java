@@ -21,8 +21,11 @@ public class SortManagerMain {
         String desiredSortType = view.getDesiredSortMethod();
         SortController controller = new SortController();
         int[] result = controller.initiateSort(desiredSortType);
-
+        long startTime = System.nanoTime();
         controller.initiateSort(desiredSortType);
+        long endTime = System.nanoTime();
+        long duration = (endTime - startTime);
+        System.out.printf("The sort method took %d nanoseconds to run and the result is:\n", duration);
         view.displayResults(result);
 
     }

@@ -13,6 +13,7 @@ public class BubbleSort implements Sorter{
         int[] bubbleSortedArray = new int[arraySize]; //will store the sorted array
         System.arraycopy(bubbleSortArray, 0, bubbleSortedArray, 0, arraySize);
         int temp; //will use to switch integers within the array
+
         for (int i = 0; i < bubbleSortedArray.length - 1; i ++) {
             for (int j = 0; j < bubbleSortedArray.length - i - 1; j++) {
                 if (bubbleSortedArray[j] > bubbleSortedArray[j + 1]) {
@@ -22,6 +23,7 @@ public class BubbleSort implements Sorter{
                 }
             }
         }
+
         return Arrays.stream(bubbleSortedArray).toArray();
     }
 
