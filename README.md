@@ -12,7 +12,7 @@ The application will generate randomly 40 integers to populate the initial array
 - JUnit Jupiter API version 5.8.2
 - Apache log4j 2.17.1
 
-<details><summary>**Tasks**</summary>
+**Tasks**
 
 - [x] Create GitHub repository
 - [x] Generate an array of 40 random integers
@@ -22,7 +22,7 @@ The application will generate randomly 40 integers to populate the initial array
 - [ ] Implement Binary Search Tree
 - [x] Add logging capability
 - [x] Timing each sort method
-</details>
+
 
 
 ```java
