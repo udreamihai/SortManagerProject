@@ -30,11 +30,12 @@ public class SortView {
             System.out.println("| Options:                 |");
             System.out.println("|        1. Bubble Sort    |");
             System.out.println("|        2. Merge Sort     |");
-            System.out.println("|        3. Exit           |");
+            System.out.println("|        3.                |");
+            System.out.println("|        4. Exit           |");
             System.out.println("============================");
             System.out.printf("Select option: ");
             int desiredSortType = scanner.nextInt();
-            if (desiredSortType == 3){
+            if (desiredSortType == 4){
                 SortManagerMain.logger.info("User chose to exit.");
                 System.exit(0);
             }
