@@ -21,9 +21,11 @@ public class SortManagerMain {
             final int arraySize = castVariables.arraySize; //array size
             int[] bubbleSortArray = new int[arraySize]; //used for bubble sort
             int[] mergeSortArray = new int[arraySize]; //used for merge sort
+            int[] binaryTreeSortArray = new int[arraySize]; //used for binary tree sort
             try {
                 System.arraycopy(castVariables.intsArray, 0, bubbleSortArray, 0, arraySize); //populate bubble sort array
                 System.arraycopy(castVariables.intsArray, 0, mergeSortArray, 0, arraySize); //populate merge sort array
+                System.arraycopy(castVariables.intsArray, 0, binaryTreeSortArray, 0, arraySize); //populate binary tree sort array
                 logger.info("Random array [intsArray] of integers initialized correctly.");
             } catch (Exception e) {
                 logger.error("Random array [intsArray] of integers was not initialized.", e);
