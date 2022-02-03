@@ -1,0 +1,18 @@
+FILE [INFO ] 03 Feb 2022 07:48:51,811 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 03 Feb 2022 07:48:51,816 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 03 Feb 2022 07:48:54,570 main SortManager Logger - User chose Bubble Sort.
+FILE [INFO ] 03 Feb 2022 07:48:54,570 main SortManager Logger - Successfully created BubbleSort instance.
+FILE [INFO ] 03 Feb 2022 07:48:54,571 main SortManager Logger - Calling bubbleSort method...
+FILE [INFO ] 03 Feb 2022 07:48:54,572 main SortManager Logger - User chose Bubble Sort.
+FILE [INFO ] 03 Feb 2022 07:48:54,572 main SortManager Logger - Successfully created BubbleSort instance.
+FILE [INFO ] 03 Feb 2022 07:48:54,572 main SortManager Logger - Calling bubbleSort method...
+FILE [INFO ] 03 Feb 2022 07:48:54,577 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 03 Feb 2022 07:49:11,538 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 03 Feb 2022 07:49:11,543 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 03 Feb 2022 07:49:13,753 main SortManager Logger - User chose Bubble Sort.
+FILE [INFO ] 03 Feb 2022 07:49:13,754 main SortManager Logger - Successfully created BubbleSort instance.
+FILE [INFO ] 03 Feb 2022 07:49:13,755 main SortManager Logger - Calling bubbleSort method...
+FILE [INFO ] 03 Feb 2022 07:49:13,756 main SortManager Logger - User chose Bubble Sort.
+FILE [INFO ] 03 Feb 2022 07:49:13,756 main SortManager Logger - Successfully created BubbleSort instance.
+FILE [INFO ] 03 Feb 2022 07:49:13,757 main SortManager Logger - Calling bubbleSort method...
+FILE [INFO ] 03 Feb 2022 07:49:13,761 main SortManager Logger - Result displayed correctly.

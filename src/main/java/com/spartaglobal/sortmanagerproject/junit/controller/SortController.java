@@ -3,17 +3,19 @@ package com.spartaglobal.sortmanagerproject.junit.controller;
 import com.spartaglobal.sortmanagerproject.junit.model.*;
 
 public class SortController {
-    public int[] initiateSort(String desiredSortType){
+    public int[] initiateSort(int desiredSortType){
         Sorter s = getSort(desiredSortType);
         return s.sortArray(SortManagerMain.castVariables.intsArray,SortManagerMain.castVariables.arraySize);
     }
 
-    private Sorter getSort(String desiredSortType) {
+    public Sorter getSort(int desiredSortType) {
         SortFactory sf;
-        if (desiredSortType.equals("Bubble")){
+        if (desiredSortType == 1){
+            SortManagerMain.logger.info("User chose Bubble Sort.");
             sf = new BubbleSortFactory();
         }
-        else if (desiredSortType.equals("Merge")){
+        else if (desiredSortType == 2){
+            SortManagerMain.logger.info("User chose Merge Sort.");
             sf = new MergeSortFactory();
         }
         else

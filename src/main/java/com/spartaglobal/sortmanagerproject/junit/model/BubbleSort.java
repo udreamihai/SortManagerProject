@@ -5,10 +5,12 @@ import java.util.Arrays;
 public class BubbleSort implements Sorter{
     @Override
     public int[] sortArray(int[] bubbleSortArray, int arraySize) {
+        SortManagerMain.logger.info("Calling bubbleSort method...");
         return bubbleSort(bubbleSortArray);
     }
 
     public int[] bubbleSort(int[] bubbleSortArray){
+
         int arraySize = bubbleSortArray.length;
         int[] bubbleSortedArray = new int[arraySize]; //will store the sorted array
         System.arraycopy(bubbleSortArray, 0, bubbleSortedArray, 0, arraySize);
@@ -23,7 +25,6 @@ public class BubbleSort implements Sorter{
                 }
             }
         }
-
         return Arrays.stream(bubbleSortedArray).toArray();
     }
 
