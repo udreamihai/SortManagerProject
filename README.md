@@ -20,3 +20,18 @@ The application will generate randomly 40 integers to populate the initial array
 - [x] Implement Merge Sort
 - [ ] Implement Binary Search Tree
 - [x] Add logging capability
+
+
+```java
+            =====================================
+            | SELECT THE TYPE OF SORT           |
+            =====================================
+            | Options:                          |
+            |        1. Bubble Sort             |
+            |        2. Merge Sort              |
+            |        3.                         |
+            |        4. Compare timings         |
+            |        5. Exit                    |
+            =====================================
+            Select option: 
+```
