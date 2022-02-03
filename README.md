@@ -20,6 +20,7 @@ The application will generate randomly 40 integers to populate the initial array
 - [x] Implement Merge Sort
 - [ ] Implement Binary Search Tree
 - [x] Add logging capability
+- [x] Timing each sort method
 
 
 ```java
