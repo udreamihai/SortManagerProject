@@ -256,3 +256,959 @@ FILE [INFO ] 04 Feb 2022 09:59:20,209 main SortManager Logger - Result displayed
 FILE [INFO ] 04 Feb 2022 09:59:20,209 main SortManager Logger - SortManager started successfully.
 FILE [INFO ] 04 Feb 2022 09:59:20,210 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
 FILE [INFO ] 04 Feb 2022 09:59:50,746 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 10:05:03,554 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:05:03,592 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:05:07,112 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:05:07,113 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:05:07,114 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:05:07,122 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:05:07,123 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:05:07,123 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:05:07,129 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 10:05:07,134 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 10:05:07,134 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:05:07,134 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:16:01,763 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 10:16:09,587 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:16:09,599 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:16:12,725 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:16:12,725 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:16:12,726 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:16:12,732 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:16:12,732 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:16:12,732 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:16:12,736 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 10:16:12,738 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 10:16:12,739 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:16:12,739 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:16:43,804 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 10:18:19,475 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:18:19,486 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:18:21,877 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:18:21,877 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:18:21,878 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:18:21,884 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:18:21,884 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:18:21,885 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:18:21,888 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 10:18:21,890 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 10:18:21,890 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:18:21,890 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:22:47,363 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 10:22:55,979 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:22:55,990 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:22:58,797 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:22:58,797 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:22:58,798 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:22:58,802 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:22:58,802 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:22:58,802 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:22:58,806 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 10:22:58,807 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 10:22:58,807 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:22:58,807 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:23:21,899 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 10:24:02,975 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:24:02,989 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:24:05,493 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:24:05,493 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:24:05,494 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:37:55,229 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:37:55,240 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:37:58,164 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:37:58,165 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:37:58,165 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:37:58,172 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:37:58,172 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:37:58,172 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:37:58,177 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 10:37:58,178 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 10:37:58,178 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:37:58,178 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:40:49,099 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:40:49,100 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:40:49,100 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:40:49,104 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:40:49,104 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:40:49,105 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:40:49,110 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 10:40:49,111 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 10:40:49,111 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:40:49,111 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:40:50,795 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 10:40:58,020 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:40:58,032 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:41:00,615 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:41:00,616 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:41:00,617 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:41:00,639 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:41:00,639 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:41:00,639 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:41:00,649 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 10:41:00,652 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 10:41:00,652 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:41:00,652 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:41:02,515 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 10:41:54,757 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:41:54,770 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:41:57,620 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:41:57,621 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:41:57,622 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:41:57,631 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:41:57,631 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:41:57,631 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:41:57,636 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 10:41:57,637 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 10:41:57,638 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:41:57,638 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:41:59,347 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 10:43:24,552 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:43:24,563 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:43:27,214 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:43:27,214 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:43:27,215 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:43:27,238 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:43:27,238 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:43:27,238 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:43:27,248 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 10:43:27,250 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 10:43:27,250 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:43:27,250 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:45:05,301 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 10:46:19,727 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:46:19,738 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:46:22,517 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:46:22,517 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:46:22,518 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:46:22,525 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 10:46:22,526 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 10:46:22,526 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 10:46:22,529 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 10:46:22,531 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 10:46:22,531 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 10:46:22,531 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 10:46:29,332 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 11:09:10,206 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 11:09:10,213 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 11:09:13,195 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 11:09:13,196 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 11:09:13,196 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 11:09:13,201 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 11:09:13,201 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 11:09:13,202 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 11:09:13,206 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 11:09:13,207 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 11:09:13,207 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 11:09:13,207 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 11:09:16,547 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 11:14:44,980 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 11:14:44,990 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 11:14:47,805 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 11:14:47,806 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 11:14:47,806 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 11:14:47,815 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 11:14:47,815 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 11:14:47,815 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 11:14:47,820 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 11:14:47,821 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 11:14:47,821 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 11:14:47,821 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 11:20:26,172 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 11:35:49,604 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 11:35:49,616 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 11:35:52,549 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 11:35:52,550 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 11:35:52,551 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 11:35:52,553 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 11:35:52,553 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 11:35:52,553 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 11:35:52,556 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 11:35:52,560 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 11:35:52,561 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 11:35:52,561 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 11:37:06,508 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 11:50:18,826 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 11:50:18,841 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 11:50:24,366 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 11:50:24,366 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 11:50:24,367 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 11:50:24,368 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 11:50:24,369 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 11:50:24,369 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 11:50:24,370 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 11:50:24,373 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 11:50:24,373 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 11:50:24,373 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 11:50:26,283 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:16:00,932 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:16:00,938 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:16:03,614 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:16:03,615 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:16:03,616 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:16:03,616 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:16:03,616 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:16:03,616 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:16:03,617 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:16:03,619 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:16:03,619 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:16:03,619 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:16:25,661 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:19:22,232 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:19:22,238 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:19:24,471 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:19:24,471 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:19:24,472 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:19:24,476 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:19:24,476 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:19:24,476 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:19:24,480 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:19:24,483 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:19:24,484 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:19:24,484 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:19:34,589 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:20:04,297 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:20:04,302 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:20:06,590 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:20:06,591 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:20:06,591 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:20:06,593 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:20:06,594 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:20:06,594 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:20:06,596 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:20:06,597 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:20:06,597 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:20:06,597 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:20:28,349 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:20:44,175 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:20:44,180 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:20:46,999 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:20:46,999 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:20:47,000 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:20:47,002 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:20:47,002 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:20:47,002 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:20:47,005 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:20:47,006 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:20:47,006 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:20:47,006 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:21:18,085 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:22:49,771 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:22:49,776 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:22:52,759 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:22:52,760 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:22:52,760 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:22:52,761 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:22:52,762 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:22:52,762 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:22:52,763 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:22:52,765 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:22:52,765 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:22:52,765 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:23:05,716 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:23:16,119 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:23:16,125 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:23:18,407 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:23:18,407 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:23:18,408 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:23:18,410 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:23:18,411 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:23:18,411 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:23:18,412 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:23:18,414 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:23:18,414 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:23:18,414 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:25:06,997 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:25:11,229 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:25:11,234 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:25:13,943 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:25:13,943 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:25:13,944 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:25:13,945 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:25:13,945 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:25:13,945 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:25:13,946 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:25:13,948 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:25:13,948 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:25:13,948 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:26:07,085 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:26:11,320 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:26:11,325 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:26:13,453 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:26:13,453 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:26:13,454 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:26:13,456 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:26:13,456 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:26:13,457 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:26:13,459 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:26:13,463 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:26:13,463 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:26:13,463 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:26:32,789 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:29:08,820 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:29:08,825 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:29:11,471 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:29:11,471 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:29:11,472 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:29:11,473 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:29:11,473 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:29:11,473 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:29:11,474 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:29:11,476 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:29:11,477 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:29:11,477 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:32:26,093 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:32:30,677 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:32:30,683 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:32:32,870 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:32:32,871 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:32:32,872 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:32:32,874 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:32:32,874 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:32:32,874 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:32:32,876 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:32:32,878 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:32:32,878 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:32:32,878 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:38:06,101 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:38:12,111 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:38:12,115 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:38:14,246 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:38:14,247 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:38:14,248 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:38:14,253 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:38:14,253 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:38:14,253 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:38:14,257 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:38:14,261 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:38:14,261 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:38:14,261 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:38:16,100 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:39:38,640 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:39:38,645 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:39:40,687 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:39:40,688 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:39:40,688 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:39:40,693 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:39:40,693 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:39:40,693 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:39:40,697 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:39:40,699 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:39:40,700 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:39:40,700 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:39:43,157 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:40:41,181 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:40:41,186 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:40:43,534 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:40:43,535 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:40:43,536 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:40:43,540 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:40:43,541 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:40:43,541 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:40:43,545 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:40:43,548 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:40:43,549 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:40:43,549 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:40:45,373 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:46:59,328 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:46:59,333 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:47:06,118 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:47:06,119 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:47:06,119 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:47:06,122 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:47:06,122 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:47:06,122 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:47:06,124 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:47:06,126 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:47:06,126 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:47:06,126 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:47:07,829 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:48:16,115 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:48:16,121 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:48:19,342 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:48:19,343 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:48:19,344 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:48:19,347 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:48:19,347 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:48:19,347 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:48:19,349 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:48:19,350 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:48:19,351 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:48:19,351 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:48:21,477 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:49:53,487 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:49:53,492 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:49:55,727 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:49:55,728 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:49:55,729 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:49:55,732 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:49:55,732 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:49:55,732 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:49:55,734 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:49:55,736 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:49:55,736 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:49:55,736 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:49:59,771 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:50:54,414 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:50:54,420 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:50:56,967 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:50:56,968 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:50:56,968 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:50:56,977 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:50:56,977 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:50:56,977 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:50:56,981 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:50:56,984 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:50:56,984 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:50:56,985 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:50:58,844 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:51:44,510 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:51:44,516 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:51:46,830 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:51:46,831 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:51:46,831 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:51:46,835 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:51:46,835 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:51:46,835 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:51:46,837 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:51:46,839 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:51:46,839 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:51:46,839 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:51:48,620 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:52:17,737 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:52:17,742 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:52:19,967 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:52:19,967 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:52:19,968 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:52:19,973 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:52:19,973 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:52:19,973 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:52:19,975 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:52:19,977 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:52:19,977 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:52:19,977 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:52:22,261 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:53:07,536 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:53:07,541 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:53:09,671 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:53:09,672 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:53:09,673 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:53:09,682 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:53:09,682 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:53:09,682 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:53:09,686 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:53:09,689 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:53:09,690 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:53:09,690 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:53:11,308 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:54:53,140 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:54:53,145 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:54:55,270 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:54:55,271 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:54:55,272 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:54:55,280 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:54:55,280 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:54:55,280 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:54:55,283 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:54:55,285 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:54:55,285 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:54:55,285 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:54:57,228 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:55:43,036 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:55:43,041 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:55:46,318 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:55:46,319 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:55:46,320 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:55:46,326 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:55:46,326 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:55:46,326 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:55:46,329 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:55:46,330 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:55:46,330 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:55:46,330 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:55:47,788 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 12:59:35,958 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:59:35,963 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:59:38,439 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:59:38,440 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:59:38,440 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:59:38,447 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 12:59:38,447 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 12:59:38,447 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 12:59:38,449 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 12:59:38,451 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 12:59:38,451 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 12:59:38,451 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 12:59:40,077 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:03:43,632 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:03:43,640 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:03:46,262 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:03:46,262 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:03:46,263 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:03:46,266 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:03:46,267 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:03:46,267 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:03:46,270 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:03:46,273 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:03:46,274 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:03:46,274 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:03:50,100 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:04:32,951 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:04:32,959 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:04:35,143 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:04:35,144 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:04:35,144 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:05:13,078 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:05:13,085 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:05:16,391 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:05:16,391 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:05:16,392 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:06:29,010 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:06:29,021 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:06:31,543 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:06:31,544 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:06:31,545 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:10:37,455 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:10:37,468 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:10:40,325 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:10:40,326 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:10:40,326 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:11:24,787 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:11:24,797 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:11:27,671 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:11:27,672 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:11:27,673 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:11:27,678 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:11:27,678 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:11:27,678 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:12:24,561 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:12:24,573 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:12:27,174 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:12:27,175 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:12:27,175 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:12:27,180 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:12:27,181 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:12:27,181 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:12:27,183 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:12:27,184 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:12:27,185 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:12:27,185 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:13:03,013 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:16:11,153 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:16:11,164 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:16:13,550 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:16:13,551 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:16:13,551 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:16:13,558 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:16:13,558 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:16:13,558 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:16:13,563 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:16:13,567 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:16:13,567 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:16:13,567 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:16:36,637 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:16:54,538 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:16:54,550 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:16:57,279 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:16:57,279 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:16:57,280 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:16:57,289 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:16:57,289 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:16:57,289 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:16:57,293 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:16:57,296 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:16:57,297 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:16:57,297 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:17:00,149 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:18:05,627 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:18:05,642 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:18:08,047 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:18:08,048 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:18:08,049 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:18:08,059 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:18:08,060 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:18:08,060 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:18:08,064 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:18:08,068 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:18:08,068 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:18:08,068 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:19:15,141 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:19:28,879 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:19:28,890 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:19:32,111 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:19:32,112 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:19:32,113 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:19:32,123 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:19:32,124 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:19:32,124 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:19:32,128 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:19:32,132 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:19:32,132 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:19:32,132 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:19:45,717 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:20:23,784 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:20:23,797 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:20:26,302 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:20:26,303 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:20:26,304 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:20:26,315 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:20:26,315 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:20:26,315 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:20:26,319 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:20:26,323 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:20:26,323 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:20:26,323 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:20:29,189 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:23:22,647 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:23:22,659 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:23:25,350 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:23:25,350 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:23:25,351 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:24:42,513 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:24:42,525 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:24:45,047 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:24:45,048 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:24:45,049 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:25:09,702 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:25:09,717 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:25:12,478 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:25:12,478 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:25:12,479 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:26:26,086 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:26:26,098 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:26:30,367 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:26:30,368 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:26:30,369 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:26:30,387 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:26:30,388 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:26:30,388 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:27:18,094 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:27:18,106 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:27:20,679 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:27:20,680 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:27:20,680 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:27:20,689 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:27:20,689 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:27:20,689 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:27:53,249 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:27:53,260 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:27:55,807 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:27:55,808 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:27:55,809 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:27:55,822 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:27:55,822 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:27:55,822 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:29:49,886 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:29:49,897 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:29:54,433 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:29:54,433 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:29:54,434 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:29:54,441 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:29:54,441 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:29:54,441 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:29:54,444 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:29:54,446 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:29:54,446 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:29:54,446 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:29:57,854 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:31:11,732 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:31:11,743 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:31:14,367 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:31:14,368 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:31:14,369 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:31:14,380 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:31:14,380 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:31:14,380 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:31:14,388 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:31:14,391 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:31:14,391 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:31:14,391 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:31:16,734 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:33:49,047 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:33:49,058 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:33:51,415 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:33:51,415 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:33:51,416 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:33:51,425 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:33:51,425 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:33:51,425 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:40:22,910 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:40:22,922 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:40:26,639 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:40:26,640 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:40:26,641 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:40:26,650 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:40:26,651 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:40:26,651 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:40:26,657 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:40:26,658 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:40:26,658 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:40:26,659 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:40:29,165 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:41:53,756 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:41:53,768 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:41:56,351 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:41:56,352 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:41:56,352 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:41:56,358 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:41:56,358 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:41:56,358 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:42:15,962 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:42:15,973 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:42:18,182 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:42:18,183 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:42:18,183 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:42:18,192 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:42:18,192 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:42:18,192 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:42:18,194 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:42:18,196 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:42:18,196 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:42:18,196 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:42:20,479 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:46:54,999 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:46:55,010 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:46:57,422 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:46:57,423 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:46:57,423 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:46:57,425 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:46:57,425 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:46:57,425 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:46:57,428 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:46:57,430 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:46:57,430 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:46:57,430 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:46:59,829 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:47:20,296 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:47:20,309 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:47:23,775 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:47:23,776 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:47:23,777 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:47:23,787 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:47:23,787 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:47:23,787 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:47:23,791 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:47:23,794 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:47:23,794 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:47:23,794 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:47:25,605 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:48:06,744 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:48:06,756 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:48:09,287 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:48:09,288 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:48:09,289 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:48:09,300 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:48:09,300 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:48:09,300 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:48:09,304 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:48:09,306 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:48:09,306 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:48:09,306 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:48:13,061 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:50:13,161 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:50:13,177 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:50:16,143 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:50:16,144 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:50:16,144 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:50:16,151 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:50:16,151 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:50:16,151 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:50:16,155 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:50:16,156 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:50:16,156 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:50:16,157 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:50:18,501 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:51:45,569 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:51:45,580 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:51:47,976 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:51:47,976 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:51:47,976 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:51:47,983 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:51:47,984 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:51:47,984 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:51:47,988 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:51:47,989 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:51:47,990 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:51:47,990 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:51:50,453 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 14:56:40,600 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:56:40,611 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:56:43,574 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:56:43,575 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:56:43,576 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:56:43,586 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 14:56:43,587 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 14:56:43,587 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 14:56:43,591 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 14:56:43,593 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 14:56:43,593 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 14:56:43,593 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 14:56:45,485 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:02:31,998 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:02:32,018 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:02:38,727 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:02:38,727 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:02:38,727 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:02:38,735 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:02:38,736 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:02:38,736 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:02:38,739 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:02:38,741 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:02:38,741 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:02:38,741 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:02:40,773 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:04:39,719 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:04:39,730 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:04:44,086 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:04:44,087 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:04:44,087 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:04:44,089 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:04:44,089 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:04:44,089 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:04:44,092 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:04:44,093 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:04:44,094 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:04:44,094 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:04:45,797 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:06:28,237 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:06:28,249 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:06:30,882 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:06:30,882 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:06:30,883 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:06:30,889 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:06:30,889 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:06:30,889 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:06:30,899 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:06:30,905 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:06:30,905 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:06:30,905 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:06:33,501 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:09:48,433 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:09:48,443 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:09:50,951 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:09:50,951 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:09:50,952 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:09:50,957 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:09:50,957 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:09:50,958 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:09:50,959 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:09:50,961 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:09:50,961 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:09:50,961 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:09:54,565 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:25:40,252 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:25:40,257 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:25:43,104 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:25:43,105 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:25:43,105 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:25:43,115 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:25:43,115 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:25:43,115 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:25:43,119 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:25:43,121 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:25:43,122 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:25:43,122 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:25:45,958 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:34:47,520 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:34:47,525 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:34:50,175 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:34:50,176 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:34:50,177 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:34:50,181 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:34:50,181 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:34:50,181 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:34:50,183 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:34:50,185 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:34:50,185 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:34:50,185 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:34:52,102 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:35:57,069 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:35:57,074 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:35:59,184 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:35:59,184 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:35:59,185 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:35:59,189 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:35:59,189 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:35:59,189 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:35:59,190 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:35:59,192 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:35:59,193 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:35:59,193 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:36:00,133 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:39:19,166 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:39:19,171 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:39:22,999 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:39:23,000 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:39:23,000 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:39:23,004 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:39:23,004 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:39:23,004 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:39:23,008 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:39:23,010 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:39:23,010 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:39:23,010 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:39:24,503 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:42:03,818 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:42:03,824 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:42:06,520 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:42:06,521 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:42:06,521 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:42:06,527 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:42:06,528 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:42:06,528 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:42:06,531 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:42:06,532 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:42:06,532 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:42:06,532 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:42:08,165 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:44:21,284 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:44:21,290 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:44:24,328 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:44:24,328 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:44:24,328 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:44:24,333 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:44:24,333 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:44:24,333 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:44:24,337 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:44:24,338 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:44:24,338 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:44:24,338 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:44:26,478 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:46:28,239 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:46:28,244 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:46:31,280 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:46:31,281 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:46:31,281 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:46:31,286 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:46:31,286 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:46:31,286 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:46:31,289 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:46:31,290 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:46:31,290 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:46:31,290 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:46:33,614 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:49:46,339 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:49:46,344 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:49:48,784 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:49:48,785 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:49:48,785 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:49:48,792 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:49:48,792 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:49:48,792 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:49:48,795 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:49:48,796 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:49:48,796 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:49:48,796 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:49:50,511 main SortManager Logger - User chose to exit.
+FILE [INFO ] 04 Feb 2022 15:54:09,442 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:54:09,447 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:54:11,776 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:54:11,777 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:54:11,778 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:54:11,790 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 04 Feb 2022 15:54:11,790 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 04 Feb 2022 15:54:11,790 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 04 Feb 2022 15:54:11,795 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 04 Feb 2022 15:54:11,796 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 04 Feb 2022 15:54:11,796 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 04 Feb 2022 15:54:11,796 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 04 Feb 2022 15:54:13,454 main SortManager Logger - User chose to exit.

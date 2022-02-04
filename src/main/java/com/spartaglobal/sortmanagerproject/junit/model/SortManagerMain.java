@@ -59,6 +59,8 @@ public class SortManagerMain {
                 fileName += "Bubble";
             } else if (desiredSortType == 2){
                 fileName += "Merge";
+            } else if (desiredSortType == 3){
+                fileName += "Binary";
             }
             fileName += "Timing.txt";
 
@@ -73,7 +75,7 @@ public class SortManagerMain {
                 //e.printStackTrace();
             }
 
-            System.out.printf("The sort method took %d nanoseconds to run and the result is:\n", duration);
+            System.out.printf("\nThe sort method took %d nanoseconds to run and the result is:\n", duration);
             for (int j = 0; j < sb.length(); j++) {
                 System.out.printf("=");
             }
