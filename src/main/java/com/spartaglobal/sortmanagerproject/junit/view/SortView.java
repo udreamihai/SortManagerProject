@@ -13,6 +13,7 @@ public class SortView {
         enum validOptions{
             Bubble(1),
             Merge(2),
+            Binary(3),
             Quit(5);
 
             private int id;
@@ -33,7 +34,7 @@ public class SortView {
             System.out.println("| Options:                          |");
             System.out.println("|        1. Bubble Sort             |");
             System.out.println("|        2. Merge Sort              |");
-            System.out.println("|        3.                         |");
+            System.out.println("|        3. Binary Tree             |");
             System.out.println("|        4. Compare timings         |");
             System.out.println("|        5. Exit                    |");
             System.out.println("=====================================");

@@ -24,7 +24,7 @@ The application will generate randomly 40 integers to populate the initial array
 - [x] Timing each sort method
 
 
-
+User needs to choose an option from the menu below to start:
 ```java
             =====================================
             | SELECT THE TYPE OF SORT           |
@@ -32,7 +32,7 @@ The application will generate randomly 40 integers to populate the initial array
             | Options:                          |
             |        1. Bubble Sort             |
             |        2. Merge Sort              |
-            |        3.                         |
+            |        3. Binary Tree Sort        |
             |        4. Compare timings         |
             |        5. Exit                    |
             =====================================
