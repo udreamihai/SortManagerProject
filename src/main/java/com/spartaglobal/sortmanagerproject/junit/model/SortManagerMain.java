@@ -80,7 +80,8 @@ public class SortManagerMain {
                 System.out.printf("=");
             }
             System.out.printf("\n");
-            view.displayResults(result);
+            if (desiredSortType != 3)
+                view.displayResults(result);
 
         }
     }

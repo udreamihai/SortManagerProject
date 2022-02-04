@@ -14,6 +14,7 @@ public class SortView {
             Bubble(1),
             Merge(2),
             Binary(3),
+            Timing(4),
             Quit(5);
 
             private int id;

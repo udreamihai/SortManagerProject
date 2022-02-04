@@ -21,23 +21,22 @@ public class BinarySearchTreeSort implements Sorter{
 
     public int[] treeSort(int[] binaryTreeSortArray){
 
-        System.out.printf("\ntreeSort started...\n");
+        //System.out.printf("\ntreeSort started...\n");
         int arraySize = binaryTreeSortArray.length;
         int[] treeSortedArray = new int[arraySize]; //will store the sorted array
         BinarySearchTreeSort bt = new BinarySearchTreeSort();
-        System.out.printf("\nInserting elements: ");
+        //System.out.printf("\nInserting elements: ");
         for (int i = 0; i < arraySize; i++){
             bt.insert(binaryTreeSortArray[i]);
-            System.out.printf("%d ", binaryTreeSortArray[i]);
+            //System.out.printf("%d ", binaryTreeSortArray[i]);
         }
         System.out.printf("\n");
-        //System.out.println("Binary search tree after insertion:");
         //Displays the binary tree
         //bt.inorderTraversal(bt.root);
 
-        int[] sss = bt.inorderTraversal(bt.root).clone();
-        System.out.println(Arrays.toString(sss));
-        return null;
+        int[] sss = bt.inorderTraversal(bt.root);
+        //System.out.println(Arrays.toString(sss));
+        return sss;
     }
 
     //Represent a node of binary tree
@@ -99,6 +98,7 @@ public class BinarySearchTreeSort implements Sorter{
     }
     public static AtomicInteger count = new AtomicInteger(-1);
     //inorder() will perform inorder traversal on binary search tree
+
     public int[] inorderTraversal(Node node) {
         int[] tempArray = new int[arraySize];
         //Check whether tree is empty
@@ -108,9 +108,9 @@ public class BinarySearchTreeSort implements Sorter{
         }
         switch (count.get()){
             case 39:
-                System.out.println("I'm breaking out!!");
+                //System.out.println("I'm breaking out!!");
                 for (int h=0; h < 40; h++){
-                    System.out.printf("temp[%d] = %d\n", h, tempArray[h]);
+                    //System.out.printf("temp[%d] = %d\n", h, tempArray[h]);
                 }
                 break;
             default:
@@ -119,9 +119,9 @@ public class BinarySearchTreeSort implements Sorter{
                 }
                 //System.out.print(node.data + " ");
 
-                System.out.printf("tempArray[%d] = %d\n", count.incrementAndGet(), node.data);
-                tempArray[count.get()] = Integer.valueOf(node.data);
-                System.out.printf("real tempArray[%d] = %d\n", count.get(), node.data);
+                //System.out.printf("tempArray[%d] = %d\n", count.incrementAndGet(), node.data);
+                tempArray[count.incrementAndGet()] = node.data;
+                System.out.printf("%d, ", tempArray[count.get()]);
                 if(node.right!= null){
                     inorderTraversal(node.right);
                 }
