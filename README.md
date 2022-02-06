@@ -38,3 +38,30 @@ User needs to choose an option from the menu below to start:
             =====================================
             Select option: 
 ```
+Option 1 will generate a random array of integers, if it's not already generated, sort it using Bubble Sort then insert the timing into its corresponding file.
+
+```java
+The sort method took 381892 nanoseconds to run and the result is:
+=================================================================================================================================================================================================
+[13, 24, 39, 41, 53, 80, 94, 101, 115, 132, 147, 150, 155, 165, 173, 176, 189, 199, 209, 217, 223, 235, 240, 245, 264, 278, 285, 295, 301, 331, 348, 349, 374, 415, 454, 475, 491, 492, 494, 498]
+```
+
+Option 2 will generate a random array of integers, if it's not already generated, sort it using Merge Sort then insert the timing into its corresponding file.
+```java
+The sort method took 549581 nanoseconds to run and the result is:
+=================================================================================================================================================================================================
+[13, 24, 39, 41, 53, 80, 94, 101, 115, 132, 147, 150, 155, 165, 173, 176, 189, 199, 209, 217, 223, 235, 240, 245, 264, 278, 285, 295, 301, 331, 348, 349, 374, 415, 454, 475, 491, 492, 494, 498]
+```
+Option 3 will generate a random array of integers, if it's not already generated, sort it using Binary Tree Search then insert the timing into its corresponding file.
+```java
+The sort method took 867080 nanoseconds to run and the result is:
+        =================================================================================================================================================================================================
+        [13, 24, 39, 41, 53, 80, 94, 101, 115, 132, 147, 150, 155, 165, 173, 176, 189, 199, 209, 217, 223, 235, 240, 245, 264, 278, 285, 295, 301, 331, 348, 349, 374, 415, 454, 475, 491, 492, 494, 498]
+```
+Option 4 will read the content of the files where the times are stored and calculate the average runtime for each method.
+```java
+Average time for Binary Tree Search sort method, based on 9 entries is: 641018 nanoseconds
+Average time for Bubble Sort sort method, based on 5 entries is: 364375 nanoseconds
+Average time for Merge Sort sort method, based on 7 entries is: 416932 nanoseconds
+```
+Option 5 it's a mistery.

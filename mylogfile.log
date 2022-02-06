@@ -193,3 +193,40 @@ FILE [INFO ] 06 Feb 2022 16:57:30,606 main SortManager Logger - Successfully wro
 FILE [INFO ] 06 Feb 2022 16:57:30,606 main SortManager Logger - SortManager started successfully.
 FILE [INFO ] 06 Feb 2022 16:57:30,606 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
 FILE [INFO ] 06 Feb 2022 16:57:32,412 main SortManager Logger - User chose to exit.
+FILE [INFO ] 06 Feb 2022 17:29:41,526 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 06 Feb 2022 17:29:41,532 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 06 Feb 2022 17:29:47,599 main SortManager Logger - User chose Bubble Sort.
+FILE [INFO ] 06 Feb 2022 17:29:47,600 main SortManager Logger - Successfully created BubbleSort instance.
+FILE [INFO ] 06 Feb 2022 17:29:47,600 main SortManager Logger - Calling bubbleSort method...
+FILE [INFO ] 06 Feb 2022 17:29:47,601 main SortManager Logger - User chose Bubble Sort.
+FILE [INFO ] 06 Feb 2022 17:29:47,601 main SortManager Logger - Successfully created BubbleSort instance.
+FILE [INFO ] 06 Feb 2022 17:29:47,601 main SortManager Logger - Calling bubbleSort method...
+FILE [INFO ] 06 Feb 2022 17:29:47,601 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 06 Feb 2022 17:29:47,603 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 06 Feb 2022 17:29:47,603 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 06 Feb 2022 17:29:47,604 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 06 Feb 2022 17:30:43,086 main SortManager Logger - User chose Merge Sort.
+FILE [INFO ] 06 Feb 2022 17:30:43,087 main SortManager Logger - Successfully create MergeSort instance.
+FILE [INFO ] 06 Feb 2022 17:30:43,087 main SortManager Logger - User chose Merge Sort.
+FILE [INFO ] 06 Feb 2022 17:30:43,088 main SortManager Logger - Successfully create MergeSort instance.
+FILE [INFO ] 06 Feb 2022 17:30:43,088 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 06 Feb 2022 17:30:43,092 main SortManager Logger - Result displayed correctly.
+FILE [INFO ] 06 Feb 2022 17:30:43,092 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 06 Feb 2022 17:30:43,092 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 06 Feb 2022 17:31:09,998 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 06 Feb 2022 17:31:09,999 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 06 Feb 2022 17:31:09,999 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 06 Feb 2022 17:31:10,000 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 06 Feb 2022 17:31:10,002 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 06 Feb 2022 17:31:10,002 main SortManager Logger - User chose Binary Search Tree Sort.
+FILE [INFO ] 06 Feb 2022 17:31:10,002 main SortManager Logger - Successfully create Binary Search Tree Sort instance.
+FILE [INFO ] 06 Feb 2022 17:31:10,002 main SortManager Logger - Calling treeSort method...
+FILE [INFO ] 06 Feb 2022 17:31:10,003 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 06 Feb 2022 17:31:10,005 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 06 Feb 2022 17:31:10,005 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 06 Feb 2022 17:31:46,950 main SortManager Logger - User chose to view average times.
+FILE [INFO ] 06 Feb 2022 17:31:46,964 main SortManager Logger - Successfully create MergeSort instance.
+FILE [INFO ] 06 Feb 2022 17:31:46,965 main SortManager Logger - Successfully create MergeSort instance.
+FILE [INFO ] 06 Feb 2022 17:31:46,965 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 06 Feb 2022 17:31:46,965 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 06 Feb 2022 17:31:46,965 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
