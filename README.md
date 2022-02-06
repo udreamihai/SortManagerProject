@@ -22,6 +22,7 @@ The application will generate randomly 40 integers to populate the initial array
 - [ ] Implement Binary Search Tree
 - [x] Add logging capability
 - [x] Timing each sort method
+- [x] Add README file
 
 
 User needs to choose an option from the menu below to start:
