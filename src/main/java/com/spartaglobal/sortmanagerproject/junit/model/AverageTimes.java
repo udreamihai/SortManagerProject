@@ -8,7 +8,7 @@ import java.util.Scanner;
 import static com.spartaglobal.sortmanagerproject.junit.model.SortManagerMain.logger;
 
 public class AverageTimes {
-    public static void main(String[] args) throws NumberFormatException {
+    public static void main() throws NumberFormatException {
         String[] timeFiles = {"BinaryTiming.txt", "BubbleTiming.txt", "MergeTiming.txt"};
         for (int i = 0; i < timeFiles.length; i++) {
             String fileName = timeFiles[i];

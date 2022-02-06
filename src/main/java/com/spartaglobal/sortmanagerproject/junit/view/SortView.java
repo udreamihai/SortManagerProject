@@ -1,5 +1,6 @@
 package com.spartaglobal.sortmanagerproject.junit.view;
 
+import com.spartaglobal.sortmanagerproject.junit.model.AverageTimes;
 import com.spartaglobal.sortmanagerproject.junit.model.SortManagerMain;
 
 import java.util.Arrays;
@@ -40,16 +41,19 @@ public class SortView {
             System.out.println("|        5. Exit                    |");
             System.out.println("=====================================");
             System.out.printf("Select option: ");
+            Boolean isValid = false;
             int desiredSortType = scanner.nextInt();
             if (desiredSortType == 4){
-
+                AverageTimes a = new AverageTimes();
+                a.main();
+                isValid = false;
             }
             if (desiredSortType == 5){ //quit
                 logger.info("User chose to exit.");
                 System.out.printf("Quitting...");
                 System.exit(0);
             }
-            Boolean isValid = false;
+
             for (validOptions option : validOptions.values()) {
                 if (desiredSortType == option.id) {
                     isValid = true;
