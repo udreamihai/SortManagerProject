@@ -41,6 +41,9 @@ public class SortView {
             System.out.println("=====================================");
             System.out.printf("Select option: ");
             int desiredSortType = scanner.nextInt();
+            if (desiredSortType == 4){
+
+            }
             if (desiredSortType == 5){ //quit
                 logger.info("User chose to exit.");
                 System.out.printf("Quitting...");

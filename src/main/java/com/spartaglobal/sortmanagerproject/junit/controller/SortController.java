@@ -19,7 +19,7 @@ public class SortController {
             sf = new MergeSortFactory();
         }
         else if (desiredSortType == 3){
-            SortManagerMain.logger.info("User chose Binary Search Tree Sort.");
+            SortManagerMain.logger.info("User chose Binary Search Tree Sort.");SortManagerMain.logger.info("User chose Binary Search Tree Sort.");
             sf = new BinarySearchTreeSortFactory();
         }
         else
