@@ -31,7 +31,7 @@ public class SortManagerMain {
                 logger.error("Random array [intsArray] of integers was not initialized.", e);
             }
             System.out.println("===========================");
-            System.out.println("Original array of integers:");
+            System.out.println("Random array of integers:");
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < castVariables.intsArray.length; i++) {
                 sb.append(castVariables.intsArray[i]);
@@ -75,13 +75,15 @@ public class SortManagerMain {
                 //e.printStackTrace();
             }
 
-            System.out.printf("\nThe sort method took %d nanoseconds to run and the result is:\n", duration);
-            for (int j = 0; j < sb.length(); j++) {
-                System.out.printf("=");
+            if (desiredSortType != 4) {
+                System.out.printf("\nThe sort method took %d nanoseconds to run and the result is:\n", duration);
+                for (int j = 0; j < sb.length(); j++) {
+                    System.out.printf("=");
+                }
+                System.out.printf("\n");
+                if (desiredSortType != 3)
+                    view.displayResults(result);
             }
-            System.out.printf("\n");
-            if (desiredSortType != 3)
-                view.displayResults(result);
 
         }
     }

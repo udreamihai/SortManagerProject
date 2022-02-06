@@ -176,3 +176,20 @@ FILE [INFO ] 06 Feb 2022 16:51:43,286 main SortManager Logger - Result displayed
 FILE [INFO ] 06 Feb 2022 16:51:43,286 main SortManager Logger - SortManager started successfully.
 FILE [INFO ] 06 Feb 2022 16:51:43,286 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
 FILE [INFO ] 06 Feb 2022 16:52:05,613 main SortManager Logger - User chose to exit.
+FILE [INFO ] 06 Feb 2022 16:54:48,527 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 06 Feb 2022 16:54:48,532 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 06 Feb 2022 16:54:51,270 main SortManager Logger - Successfully create MergeSort instance.
+FILE [INFO ] 06 Feb 2022 16:54:51,271 main SortManager Logger - Successfully create MergeSort instance.
+FILE [INFO ] 06 Feb 2022 16:54:51,272 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 06 Feb 2022 16:54:51,272 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 06 Feb 2022 16:54:51,272 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 06 Feb 2022 16:55:45,582 main SortManager Logger - User chose to exit.
+FILE [INFO ] 06 Feb 2022 16:57:28,098 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 06 Feb 2022 16:57:28,103 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 06 Feb 2022 16:57:30,590 main SortManager Logger - User chose to view average times.
+FILE [INFO ] 06 Feb 2022 16:57:30,604 main SortManager Logger - Successfully create MergeSort instance.
+FILE [INFO ] 06 Feb 2022 16:57:30,605 main SortManager Logger - Successfully create MergeSort instance.
+FILE [INFO ] 06 Feb 2022 16:57:30,606 main SortManager Logger - Successfully wrote timing to the file.
+FILE [INFO ] 06 Feb 2022 16:57:30,606 main SortManager Logger - SortManager started successfully.
+FILE [INFO ] 06 Feb 2022 16:57:30,606 main SortManager Logger - Random array [intsArray] of integers initialized correctly.
+FILE [INFO ] 06 Feb 2022 16:57:32,412 main SortManager Logger - User chose to exit.

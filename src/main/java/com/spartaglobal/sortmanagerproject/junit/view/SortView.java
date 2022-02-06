@@ -44,6 +44,7 @@ public class SortView {
             Boolean isValid = false;
             int desiredSortType = scanner.nextInt();
             if (desiredSortType == 4){
+                logger.info("User chose to view average times.");
                 AverageTimes a = new AverageTimes();
                 a.main();
                 isValid = false;
