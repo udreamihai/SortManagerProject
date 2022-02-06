@@ -1,6 +1,5 @@
 package com.spartaglobal.sortmanagerproject.junit.model;
 
-import java.io.File;
 import java.io.*;
 import java.util.Arrays;
 import java.util.Scanner;

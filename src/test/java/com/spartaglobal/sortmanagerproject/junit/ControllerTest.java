@@ -18,6 +18,7 @@ public class ControllerTest {
     }
 
     @Test
+    @DisplayName("Test if Bubble Sort is launched properly")
     void checkBubbleSort() {
         sorter = new BubbleSort();
         Sorter e = new SortController().getSort(1);
