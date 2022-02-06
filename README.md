@@ -23,6 +23,7 @@ The application will generate randomly 40 integers to populate the initial array
 - [x] Add logging capability
 - [x] Timing each sort method
 - [x] Add README file
+- [x] Add tests for all methods
 
 
 User needs to choose an option from the menu below to start:
